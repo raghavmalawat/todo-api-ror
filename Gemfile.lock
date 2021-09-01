@@ -181,12 +181,12 @@ DEPENDENCIES
   bootsnap (>= 1.4.4)
   byebug
   database_cleaner
-  factory_bot_rails (~> 4.0)
+  factory_bot_rails
   faker
   listen (~> 3.3)
   puma (~> 5.0)
   rails (~> 6.1.4, >= 6.1.4.1)
-  rspec-rails (~> 3.5)
+  rspec-rails
   shoulda-matchers (~> 3.1)
   spring
   sqlite3 (~> 1.4)
